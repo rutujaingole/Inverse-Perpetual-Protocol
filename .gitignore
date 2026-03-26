@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.local
+.env.production
+dist/
+build/
+.vite/
+__pycache__/
+*.pyc
+positions.json
+.DS_Store
+*.log
